@@ -1,5 +1,3 @@
-!/usr/bin/env python3
-# Reste du code Python
 import sys
 import re
 
